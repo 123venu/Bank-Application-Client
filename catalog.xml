@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/Bank_Application_Server/EmployeeService?wsdl" uri="xml-resources/web-service-references/EmployeeService/wsdl/localhost_8080/Bank_Application_Server/EmployeeService.wsdl"/>
+    <system systemId="http://localhost:8080/Bank_Application_Server/EmployeeService?xsd=1" uri="xml-resources/web-service-references/EmployeeService/wsdl/localhost_8080/Bank_Application_Server/EmployeeService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/Bank_Application_Server/CustomerService?wsdl" uri="xml-resources/web-service-references/CustomerService/wsdl/localhost_8080/Bank_Application_Server/CustomerService.wsdl"/>
+    <system systemId="http://localhost:8080/Bank_Application_Server/CustomerService?xsd=1" uri="xml-resources/web-service-references/CustomerService/wsdl/localhost_8080/Bank_Application_Server/CustomerService.xsd_1.xsd"/>
+</catalog>
